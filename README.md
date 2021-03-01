@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+<div align="center" id="top"> 
+  <img src="./src/assets/screenshot.png" alt="Dsr Portfolio React" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+&#xa0;
 
-## Available Scripts
+</div>
 
-In the project directory, you can run:
+<h1 align="center">Dania S Rinker Portfolio React</h1>
 
-### `npm start`
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/daniarinker/dsr-portfolio-react?color=56BEB8">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/daniarinker/dsr-portfolio-react?color=56BEB8">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/daniarinker/dsr-portfolio-react?color=56BEB8">
 
-### `npm test`
+  <img alt="License" src="https://img.shields.io/github/license/daniarinker/dsr-portfolio-react?color=56BEB8">
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- Status -->
 
-### `npm run build`
+<!-- <h4 align="center">
+	🚧  Dsr Portfolio React 🚀 Under construction...  🚧
+</h4>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<hr> -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/daniarinker" target="_blank">Author</a>
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `npm run eject`
+## :dart: About
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+This is my first take on my React Portfolio. It includes a resume, contact information and links, photos, and projects in the past that I have worked on. It currently contains other works featured on my Github account such as 'the Gifd of Food', 'Pan-dammit', and the assignment 'Password Generator'
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :rocket: Technologies
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+The following tools were used in this project:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
 
-## Learn More
+## :checkered_flag: Starting
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# Clone this project
+$ git clone https://github.com/daniarinker/dsr-portfolio-react
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Access
+$ cd dsr-portfolio-react
 
-### Code Splitting
+# Install dependencies
+$ npm i
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Run the project
+$ npm start
 
-### Analyzing the Bundle Size
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## :memo: License
 
-### Making a Progressive Web App
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Made with :heart: by <a href="https://github.com/daniarinker" target="_blank">Dania Rinker</a>
 
-### Advanced Configuration
+&#xa0;
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="#top">Back to top</a>
