@@ -1,5 +1,4 @@
 // import React, { Component } from "react";
-// // import { FaBeer } from "react-icons/fa";
 
 // class ContactLogos extends Component {
 //   render() {
