@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dr-portfolio-react/static/css/main.f6eea97d.chunk.css",
+    "main.js": "/dr-portfolio-react/static/js/main.4db30e87.chunk.js",
+    "main.js.map": "/dr-portfolio-react/static/js/main.4db30e87.chunk.js.map",
+    "runtime-main.js": "/dr-portfolio-react/static/js/runtime-main.260e5ecc.js",
+    "runtime-main.js.map": "/dr-portfolio-react/static/js/runtime-main.260e5ecc.js.map",
+    "static/js/2.b51a434a.chunk.js": "/dr-portfolio-react/static/js/2.b51a434a.chunk.js",
+    "static/js/2.b51a434a.chunk.js.map": "/dr-portfolio-react/static/js/2.b51a434a.chunk.js.map",
+    "static/js/3.5b5f35e9.chunk.js": "/dr-portfolio-react/static/js/3.5b5f35e9.chunk.js",
+    "static/js/3.5b5f35e9.chunk.js.map": "/dr-portfolio-react/static/js/3.5b5f35e9.chunk.js.map",
+    "index.html": "/dr-portfolio-react/index.html",
+    "static/css/main.f6eea97d.chunk.css.map": "/dr-portfolio-react/static/css/main.f6eea97d.chunk.css.map",
+    "static/js/2.b51a434a.chunk.js.LICENSE.txt": "/dr-portfolio-react/static/js/2.b51a434a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dr-portfolio-react/static/media/background.39ead99f.jpeg",
+    "static/media/dania_rinker.4f97800b.jpg": "/dr-portfolio-react/static/media/dania_rinker.4f97800b.jpg",
+    "static/media/gifdoffood.c0cb221d.png": "/dr-portfolio-react/static/media/gifdoffood.c0cb221d.png",
+    "static/media/pan-dammit.0734b83a.png": "/dr-portfolio-react/static/media/pan-dammit.0734b83a.png",
+    "static/media/password_generator.a6dd2ba9.png": "/dr-portfolio-react/static/media/password_generator.a6dd2ba9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.260e5ecc.js",
+    "static/js/2.b51a434a.chunk.js",
+    "static/css/main.f6eea97d.chunk.css",
+    "static/js/main.4db30e87.chunk.js"
+  ]
+}
